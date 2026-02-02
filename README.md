@@ -1,2 +1,2 @@
 # sigma-prime-demo
-This is a demo for Sigma Prime Git &amp; GitHub
+This is a demo for Sigma Prime Git &amp; GitHub.
